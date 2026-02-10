@@ -1,0 +1,41 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 50px;
+}
+
+/* Container styling */
+.container {
+    background-color: #ffffff;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+}
+
+/* Heading styling */
+h1 {
+    color: #3333cc;
+}
+
+/* Paragraph styling */
+p {
+    color: #666666;
+    font-size: 16px;
+}
+
+/* Button styling */
+button {
+    padding: 10px 20px;
+    background-color: #3333cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5555ee;
+}
